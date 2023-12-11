@@ -1,0 +1,5 @@
+8a3a1c	footer(?)	Brown			138,58,28
+e7b2c0	body		Light Pink		231,178,192
+bfc547	body		Light Green		191,197,71
+e4d5bc	details(?)	Light Green/Brown	228,213,188
+a9144e	navbar		Deep Purple		169,20,78
